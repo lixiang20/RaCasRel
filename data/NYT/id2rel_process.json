@@ -1,0 +1,28 @@
+[
+    {
+        "0": "business advisors",
+        "1": "business founders",
+        "2": "business industry",
+        "3": "business major_shareholders",
+        "4": "business place_founded",
+        "5": "business major_shareholder_of",
+        "6": "business company",
+        "7": "location country",
+        "8": "location administrative_divisions",
+        "9": "location capital",
+        "10": "location contains",
+        "11": "location neighborhood_of",
+        "12": "people place_of_death",
+        "13": "people geographic_distribution",
+        "14": "people people",
+        "15": "people children",
+        "16": "people ethnicity",
+        "17": "people nationality",
+        "18": "people place_lived",
+        "19": "people place_of_birth",
+        "20": "people profession",
+        "21": "people religion",
+        "22": "sports location",
+        "23": "sports teams"
+    }
+]
